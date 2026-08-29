@@ -23,3 +23,5 @@ A distância entre a Terra e Marte varia constantemente devido às suas órbitas
 1. Compile o arquivo Java:
    ```bash
    javac ViagemMarte.java
+
+Algoritmo para testes de versionamento com a turma!
